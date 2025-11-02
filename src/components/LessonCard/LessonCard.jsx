@@ -5,7 +5,7 @@ import { lessonData } from "./data";
 
 function LessonCard() {
   const getFullName = () => {
-    return ${lessonData.nameTeacher} ${lessonData.surnameTeacher};
+    return `${lessonData.nameTeacher} ${lessonData.surnameTeacher}`;
   };
 
   return (
