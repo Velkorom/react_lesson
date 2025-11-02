@@ -10,6 +10,7 @@ function Lesson02() {
         <Button />
         <Button />
         <Button />
+        <Button />
       </div>
       {/* <LessonCard /> */}
       <Lesson />
