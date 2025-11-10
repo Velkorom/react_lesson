@@ -1,5 +1,6 @@
-import Lesson02 from "./lessons/Lesson02/Lesson02";
-import Homework02 from "./components/Homework02/Homework02"
+//import Lesson02 from "./lessons/Lesson02/Lesson02";
+//import Homework02 from "./components/Homework02/Homework02"
+import Homework04 from "./components/homeworks/Homework04/Homework04";
 // Импортируем компонент Button для его дальнейшего использования
 // import Button from "./components/Button/Button";
 
@@ -12,7 +13,7 @@ function App() {
         <Button />
       </div> */}
      {/* <Lesson02 /> */}
-     <Homework03/>
+     <Homework04 />
     </>
   );
 }

@@ -16,11 +16,12 @@ display: flex;
     display: flex;
     flex-direction: column;
     gap: 20px;
-    align-item: center;
+    align-items: center;
     width: 100;
 }
 
 .result {
     fontn-size: 30px;
+    font-weight: bold;
     
 }

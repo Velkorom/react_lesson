@@ -1,9 +1,8 @@
-import ".styles.css";
+import "./styles.css";
 import Button from "../Button/Button";
-import { useState } from "react";
+//import { useState } from "react";
 
-function Feedback (){
-
+function Feedback () {
     return(
         <div className="feedback-conteiner">
             <div className="feedback-result-conteiner">
