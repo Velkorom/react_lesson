@@ -1,0 +1,26 @@
+.feedback-results-container {
+display: flex;
+ flex-direction: column;
+  gap: 30px; min-width: 800px;
+   padding: 20px;
+    background-color: white;
+
+}
+.feedback-results-container {
+    display: flex;
+     gap: 20px;
+     width: 100px;
+     }
+
+.like-dislike-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-item: center;
+    width: 100;
+}
+
+.result {
+    fontn-size: 30px;
+    
+}
